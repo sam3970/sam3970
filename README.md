@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sam3970
-- 👀 I’m interested in DevOps Development
-- 🌱 I’m currently learning S.A
+- 👀 I’m interested in DevOps Engineer
+- 🌱 I’m currently learning DevOps Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Read Info
 
